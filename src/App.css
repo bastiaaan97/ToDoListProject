@@ -36,3 +36,28 @@
     transform: rotate(360deg);
   }
 }
+
+#naglowek1
+{
+  color: black;
+  text-align: center;
+  font-size: 80px;
+  font-style: oblique;
+  font-weight: inherit;
+}
+body
+{
+  background-color: beige;
+}
+
+ul
+{
+  text-align: left;
+  font-size: 25px;
+  font-weight: lighter;
+  border: 1px solid black;
+  color: firebrick;
+
+}
+
+
